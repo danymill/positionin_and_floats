@@ -167,6 +167,7 @@ footer {
 .share__section-title {
   font-size: 1.3em;
   line-height: 1.15em;
+  margin-bottom: 10px;
 }
 .share__section-icons ul {
   padding: 0;
